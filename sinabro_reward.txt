@@ -1,1 +1,1 @@
-"TIER_10.0\n코니\n"
+"{tier}\n{member['full_name']}\n"
