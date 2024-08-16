@@ -1,1 +1,2 @@
-"{tier}\n{member['full_name']}\n"
+TIER_10
+코니
