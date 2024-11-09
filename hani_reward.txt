@@ -12,5 +12,6 @@ sorairo5010
 _솜밤_
 danbouru_cat
 ApolloScylla
+KimDo
 TIER_2
 HaruruSanae
