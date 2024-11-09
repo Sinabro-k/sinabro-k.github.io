@@ -1,10 +1,9 @@
 TIER_20
+빵순이_
+希死念慮
 ʚ 슈나 ɞ
 Taylot
-希死念慮
-빵순이_
 TIER_10
-<<<<<<< HEAD
 sorairo5010
 _솜밤_
 kdg624
@@ -12,16 +11,5 @@ danbouru_cat
 ApolloScylla
 YutanPoPoZzz
 lionking7892
-=======
-lionking7892
-YutanPoPoZzz
-sakutuki
-Bellvall
-sorairo5010
-_솜밤_
-danbouru_cat
-ApolloScylla
-kdg624
->>>>>>> e5e780527cfbe9330c314a5dc5c136b636ae981e
 TIER_2
 HaruruSanae
