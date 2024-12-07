@@ -18,6 +18,7 @@ AREN _
 TIER_10
 Sakutuki
 YutanPoPoZzz
+Bellvall
 belilily
 ຖ໐¢it
 sorairo5010
@@ -58,7 +59,6 @@ _HMM
 千洛今天吃饭了吗？
 Kuro Toge黑棘
 猫屋敷 月禍
-Bellvall
 TIER_2
 HaruruSanae
 UncleB
