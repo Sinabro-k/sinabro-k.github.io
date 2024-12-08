@@ -23,8 +23,6 @@ Bellvall
 belilily
 ຖ໐¢it
 sorairo5010
-_솜밤_
-danbouru_cat
 apolloScylla
 kdg624
 lionking7892
@@ -63,3 +61,6 @@ Kuro Toge黑棘
 TIER_2
 HaruruSanae
 UncleB
+TIER_0
+_솜밤_
+danbouru_cat
