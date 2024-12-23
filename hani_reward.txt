@@ -5,7 +5,6 @@ Taylot
 八重咲クラ
 ヒロシ Hiroshi
 mo4ca
-LERI_THE_RULER
 Rei2110
 ʚ 슈나 ɞ
 ShinWoong
@@ -14,6 +13,7 @@ ShinWoong
 『루셰』ルウシェ
 anhelanhel
 fees-
+LERI_THE_RULER
 TIER_10
 AREN _
 belilily
@@ -42,6 +42,7 @@ neco040
 Ishtãr
 LAGNAROCK
 すにーきーぱい
+Yukito_Shirube
 ソラ 七星
 Cicieaaa
 LazyQB （怠けパン）
@@ -54,4 +55,3 @@ Kuro Toge黑棘
 猫屋敷 月禍
 こるころ_mtmt
 ぺねろぺ
-Yukito_Shirube
