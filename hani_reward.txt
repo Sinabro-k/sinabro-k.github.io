@@ -45,7 +45,6 @@ Lemmon__Lime
 すにーきーぱい
 ソラ 七星
 Yukito_Shirube
-だっしゃん
 Cicieaaa
 LazyQB （怠けパン）
 東雲 湊
@@ -57,3 +56,5 @@ Kuro Toge黑棘
 猫屋敷 月禍
 こるころ_mtmt
 ぺねろぺ
+TIER_0
+だっしゃん
