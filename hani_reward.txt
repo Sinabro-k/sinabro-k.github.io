@@ -43,7 +43,6 @@ Ishtãr
 LAGNAROCK
 Lemmon__Lime
 ソラ 七星
-Yukito_Shirube
 Cicieaaa
 LazyQB （怠けパン）
 東雲 湊
@@ -56,5 +55,4 @@ Kuro Toge黑棘
 こるころ_mtmt
 ぺねろぺ
 すにーきーぱい
-TIER_0
-だっしゃん
+Yukito_Shirube
