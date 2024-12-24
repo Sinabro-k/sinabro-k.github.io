@@ -6,6 +6,7 @@ Taylot
 ヒロシ Hiroshi
 mo4ca
 LERI_THE_RULER
+Briant
 Rei2110
 ʚ 슈나 ɞ
 ShinWoong
@@ -55,5 +56,3 @@ Kuro Toge黑棘
 猫屋敷 月禍
 こるころ_mtmt
 ぺねろぺ
-TIER_0
-Briant
