@@ -52,7 +52,6 @@ Easz（いーじー）
 _HMM
 Lemmon__Lime
 千洛今天吃饭了吗？
-Kuro Toge黑棘
 猫屋敷 月禍
 こるころ_mtmt
 ぺねろぺ
@@ -63,3 +62,5 @@ Archive543
 かくに 카쿠니
 PinkBread
 AmorNova
+TIER_0
+Kuro Toge黑棘
