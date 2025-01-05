@@ -16,6 +16,7 @@ anhelanhel
 fees-
 MELTDOWN_LAZY
 龍神黒墨
+東雲 湊
 TIER_10
 AREN _
 belilily
@@ -48,7 +49,6 @@ Yukito_Shirube
 ソラ 七星
 Cicieaaa
 LazyQB （怠けパン）
-東雲 湊
 Easz（いーじー）
 _HMM
 Lemmon__Lime
