@@ -3,7 +3,6 @@ TIER_20
 빵냥이__
 Taylot
 八重咲クラ
-ヒロシ Hiroshi
 mo4ca
 LERI_THE_RULER
 Briant
@@ -85,3 +84,5 @@ RiN（りん）
 しゅんっ
 むあ__
 EIRENE_エイレネ
+TIER_0
+ヒロシ Hiroshi
