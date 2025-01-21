@@ -91,5 +91,3 @@ GIRU MON
 ざくざくざく
 むあ__
 EIRENE_エイレネ
-TIER_0
-Aivnoe
