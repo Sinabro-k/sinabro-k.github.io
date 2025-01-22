@@ -40,7 +40,6 @@ Sai10
 ABC490
 しーの／T_Shiino
 Rat Vacation
-itiya
 Taitan5656
 neco040
 Ishtãr
@@ -91,3 +90,5 @@ GIRU MON
 Feathermo0n
 むあ__
 EIRENE_エイレネ
+TIER_0
+itiya
