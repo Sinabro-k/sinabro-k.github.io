@@ -45,7 +45,6 @@ LAGNAROCK
 すにーきーぱい
 Yukito_Shirube
 Cicieaaa
-Easz（いーじー）
 _HMM
 猫屋敷 月禍
 千洛今天吃饭了吗？
@@ -87,3 +86,5 @@ Feathermo0n
 御堂ゆきみ
 むあ__
 EIRENE_エイレネ
+TIER_0
+Easz（いーじー）
