@@ -53,7 +53,6 @@ _HMM
 ていてい
 Kosmik_
 ༒ Ｄｅｌｏｓ ༒
-Archive543
 ネガティヴあすか
 ものくろーむ
 かくに 카쿠니
@@ -87,3 +86,5 @@ Feathermo0n
 あいりす［Iris］
 むあ__
 EIRENE_エイレネ
+TIER_0
+Archive543
