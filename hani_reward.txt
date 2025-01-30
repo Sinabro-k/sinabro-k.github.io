@@ -15,7 +15,6 @@ ShinWoong
 -Yoichi-
 『루셰』ルウシェ
 fees-
-MELTDOWN_LAZY
 龍神黒墨
 Luaris
 TIER_10
@@ -47,16 +46,13 @@ Yukito_Shirube
 Cicieaaa
 _HMM
 猫屋敷 月禍
-千洛今天吃饭了吗？
 마왕밀림나바
 ぺねろぺ
 ༒ Ｄｅｌｏｓ ༒
+MELTDOWN_LAZY
 ていてい
 Kosmik_
-ものくろーむ
 かくに 카쿠니
-ぺっかと
-casparMMT
 L'gy'hx
 ZINU_
 Ar1sa
@@ -82,5 +78,8 @@ Feathermo0n
 あいりす［Iris］
 しろぐみまーくつー
 PinkBread
+casparMMT
+ものくろーむ
+ぺっかと
 むあ__
 EIRENE_エイレネ
