@@ -60,7 +60,6 @@ AmorNova
 ぺっかと
 casparMMT
 L'gy'hx
-RuskCiela
 ZINU_
 Ar1sa
 オレだオレ、送金よろ
@@ -86,3 +85,5 @@ Feathermo0n
 しろぐみまーくつー
 むあ__
 EIRENE_エイレネ
+TIER_0
+RuskCiela
