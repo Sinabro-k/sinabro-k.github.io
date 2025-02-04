@@ -16,8 +16,8 @@ ShinWoong
 『루셰』ルウシェ
 fees-
 SEDY
-龍神黒墨
 Luaris
+龍神黒墨
 TIER_10
 belilily
 Nocit
@@ -82,5 +82,3 @@ Lewdie_FemboyS2
 hapapi
 SUZAKU／Leticia
 むあ__
-TIER_0
--Chitan-
