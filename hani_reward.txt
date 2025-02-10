@@ -27,7 +27,6 @@ kdg624
 belilily
 Nocit
 lionking7892
-KANON［YAGI］
 inaluv＠いな
 amari_rei
 犬峰ゆた
@@ -81,3 +80,5 @@ SUZAKU／Leticia
 むあ__
 TreYazzieD
 EIRENE_エイレネ
+TIER_0
+KANON［YAGI］
