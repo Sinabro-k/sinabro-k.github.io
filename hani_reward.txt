@@ -15,7 +15,6 @@ ShinWoong
 fees-
 龍神黒墨
 SEDY
-Luaris
 TIER_10
 belilily
 L'gy'hx
@@ -80,3 +79,5 @@ SUZAKU／Leticia
 TreYazzieD
 うなぎ99
 EIRENE_エイレネ
+TIER_0
+Luaris
