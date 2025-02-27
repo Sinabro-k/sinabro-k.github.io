@@ -43,7 +43,6 @@ LAGNAROCK
 すにーきーぱい
 Yukito_Shirube
 Cicieaaa
-_HMM
 MELTDOWN_LAZY
 猫屋敷 月禍
 ぺねろぺ
@@ -111,3 +110,5 @@ Yuni（ゆに）
 nasu030
 Toake
 EIRENE_エイレネ
+TIER_0
+_HMM
