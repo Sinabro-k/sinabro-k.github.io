@@ -110,5 +110,3 @@ Yuni（ゆに）
 nasu030
 Toake
 EIRENE_エイレネ
-TIER_0
-_HMM
