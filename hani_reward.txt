@@ -15,7 +15,6 @@ ShinWoong
 fees-
 lionking7892
 龍神黒墨
-SEDY
 ARUN_
 blanc（ぶらん）
 TIER_10
@@ -113,3 +112,5 @@ koko-4
 iSugar
 Toake
 EIRENE_エイレネ
+TIER_0
+SEDY
