@@ -1,5 +1,4 @@
 TIER_20
-紅の林檎
 Taylot
 八重咲クラ
 ヒロシ Hiroshi
@@ -21,7 +20,6 @@ TIER_10
 L'gy'hx
 belilily
 Nocit
-YutanPoPoZzz
 Bellvall
 Sakutuki
 sorairo5010
@@ -44,6 +42,7 @@ Yukito_Shirube
 Cicieaaa
 MELTDOWN_LAZY
 猫屋敷 月禍
+YutanPoPoZzz
 ぺねろぺ
 Easz（いーじー）
 Luaris
