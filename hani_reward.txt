@@ -113,5 +113,3 @@ BBoou
 - Talia -
 RocioCereal
 Toake
-TIER_0
-Luaris
