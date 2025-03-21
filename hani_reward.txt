@@ -45,7 +45,6 @@ MELTDOWN_LAZY
 Kosmik_
 ていてい
 Easz（いーじー）
-Luaris
 ZINU_
 ༒ Ｄｅｌｏｓ ༒
 オレだオレ、送金よろ
@@ -114,3 +113,5 @@ BBoou
 - Talia -
 RocioCereal
 Toake
+TIER_0
+Luaris
