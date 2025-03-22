@@ -3,7 +3,6 @@ TIER_20
 Taylot
 八重咲クラ
 ヒロシ Hiroshi
-mo4ca
 Briant
 LERI_THE_RULER
 Rei2110
@@ -32,7 +31,6 @@ anhelanhel
 Sai10
 ABC490
 しーの／T_Shiino
-Taitan5656
 Ishtãr
 LAGNAROCK
 すにーきーぱい
@@ -43,6 +41,7 @@ MELTDOWN_LAZY
 ぺねろぺ
 Easz（いーじー）
 Rat Vacation
+Taitan5656
 Kosmik_
 ていてい
 ZINU_
@@ -83,11 +82,9 @@ RuskCiela
 飆（つむじっ
 Keifim
 イサベル
-Jaden
 Bread Lady
 咯噔-TriggerSix-
 ᴀᴍʏᴢᴏɴɪᴀɴ
--Ryo
 `Fortune`
 Aoi Ciel
 _ゴブリン_
@@ -110,4 +107,6 @@ BBoou
 - Talia -
 RocioCereal
 ぱふゅーむてんこ
+-Ryo
+Jaden
 Toake
