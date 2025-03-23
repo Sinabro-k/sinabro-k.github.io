@@ -35,7 +35,6 @@ Rat Vacation
 Taitan5656
 Ishtãr
 LAGNAROCK
-すにーきーぱい
 Yukito_Shirube
 Cicieaaa
 MELTDOWN_LAZY
@@ -109,3 +108,5 @@ BBoou
 - Talia -
 RocioCereal
 Toake
+TIER_0
+すにーきーぱい
