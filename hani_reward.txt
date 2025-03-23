@@ -3,13 +3,13 @@ TIER_20
 Taylot
 八重咲クラ
 ヒロシ Hiroshi
-LERI_THE_RULER
 Rei2110
 ShinWoong
 ʚ 슈나 ɞ
 -Yoichi-
 『루셰』ルウシェ
 fees-
+LERI_THE_RULER
 東雲 湊
 lionking7892
 龍神黒墨
@@ -85,7 +85,6 @@ Jaden
 Bread Lady
 Keifim
 イサベル
-`Fortune`
 Aoi Ciel
 _ゴブリン_
 FreeGreenCards
