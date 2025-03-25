@@ -5,6 +5,7 @@ Taylot
 ヒロシ Hiroshi
 LERI_THE_RULER
 Rei2110
+Briant
 ShinWoong
 ʚ 슈나 ɞ
 -Yoichi-
@@ -105,5 +106,3 @@ BBoou
 - Talia -
 RocioCereal
 Toake
-TIER_0
-Briant
