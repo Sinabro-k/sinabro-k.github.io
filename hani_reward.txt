@@ -91,7 +91,6 @@ Keifim
 FreeGreenCards
 透明¯＼_（ツ）_⁄¯
 くもくも_
-へるじょぐ
 Yuni（ゆに）
 nasu030
 Karute
@@ -106,3 +105,5 @@ BBoou
 - Talia -
 RocioCereal
 Toake
+TIER_0
+へるじょぐ
