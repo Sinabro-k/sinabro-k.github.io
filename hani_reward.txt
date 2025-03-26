@@ -93,7 +93,6 @@ Aoi Ciel
 Keifim
 イサベル
 Yuni（ゆに）
-nasu030
 Karute
 JoJiFish
 Hanabusa Akuru
@@ -106,3 +105,5 @@ BBoou
 - Talia -
 RocioCereal
 Toake
+TIER_0
+nasu030
