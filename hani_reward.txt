@@ -105,3 +105,5 @@ Gallery&fanCafe_Kittens02
 kouji174
 JoJiFish
 Toake
+TIER_0
+ShinWoong
