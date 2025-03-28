@@ -105,5 +105,3 @@ RocioCereal
 Gallery&fanCafe_Kittens02
 kouji174
 Toake
-TIER_0
-민소담_
