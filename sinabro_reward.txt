@@ -3,5 +3,3 @@ TIER_20
 パンギュ빵규
 Mogoon the fish
 헤르카
-TIER_0
-thdbrjs
