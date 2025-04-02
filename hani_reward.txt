@@ -96,7 +96,6 @@ JoJiFish
 Hanabusa Akuru
 Keifim
 イサベル
-koko-4
 iSugar
 ただのドロ
 nayu_ne
@@ -108,3 +107,5 @@ Gallery&fanCafe_Kittens02
 kouji174
 Dococyx
 Toake
+TIER_0
+koko-4
