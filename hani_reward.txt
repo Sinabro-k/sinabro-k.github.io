@@ -13,7 +13,6 @@ mo4ca
 東雲 湊
 fees-
 龍神黒墨
-lionking7892
 SEDY
 blanc（ぶらん）
 ARUN_
@@ -110,3 +109,5 @@ Dococyx
 おぢさんちゃん
 『 Shana 』
 Toake
+TIER_0
+lionking7892
