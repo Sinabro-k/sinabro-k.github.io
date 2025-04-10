@@ -1,4 +1,6 @@
 TIER_20
+Taylot
+八重咲クラ
 ヒロシ Hiroshi
 LERI_THE_RULER
 Rei2110
@@ -8,8 +10,6 @@ ShinWoong
 mo4ca
 -Yoichi-
 『루셰』ルウシェ
-Taylot
-八重咲クラ
 東雲 湊
 fees-
 龍神黒墨
@@ -17,11 +17,11 @@ SEDY
 blanc（ぶらん）
 ARUN_
 TIER_10
+belilily
 L'gy'hx
 Bellvall
 sorairo5010
 kdg624
-belilily
 Nocit
 amari_rei
 犬峰ゆた
