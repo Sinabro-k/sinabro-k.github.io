@@ -1,5 +1,4 @@
 TIER_20
-Taylot
 八重咲クラ
 ヒロシ Hiroshi
 LERI_THE_RULER
@@ -10,6 +9,7 @@ ShinWoong
 mo4ca
 -Yoichi-
 『루셰』ルウシェ
+Taylot
 東雲 湊
 fees-
 龍神黒墨
