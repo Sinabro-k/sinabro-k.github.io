@@ -2,4 +2,5 @@ TIER_20
 한상 임
 パンギュ빵규
 Mogoon the fish
+TIER_0
 헤르카
