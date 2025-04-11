@@ -108,5 +108,3 @@ Dococyx
 おぢさんちゃん
 『 Shana 』
 Toake
-TIER_0
-- Talia -
