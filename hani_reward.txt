@@ -101,7 +101,6 @@ iSugar
 ch1kuw48u
 koko-4
 BBoou
-- Talia -
 RocioCereal
 Gallery&fanCafe_Kittens02
 kouji174
@@ -109,3 +108,5 @@ Dococyx
 おぢさんちゃん
 『 Shana 』
 Toake
+TIER_0
+- Talia -
