@@ -26,7 +26,6 @@ inaluv＠いな
 amari_rei
 Nocit
 犬峰ゆた
-김 누리
 anhelanhel
 Sai10
 ABC490
@@ -108,3 +107,5 @@ Dococyx
 おぢさんちゃん
 『 Shana 』
 Toake
+TIER_0
+김 누리
