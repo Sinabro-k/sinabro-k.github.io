@@ -27,7 +27,6 @@ inaluv＠いな
 amari_rei
 犬峰ゆた
 Nocit
-anhelanhel
 Sai10
 ABC490
 しーの／T_Shiino
@@ -110,3 +109,5 @@ Dococyx
 『 Shana 』
 しっぽちゃん
 Toake
+TIER_0
+anhelanhel
