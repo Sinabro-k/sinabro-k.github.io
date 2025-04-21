@@ -106,5 +106,3 @@ Dococyx
 『 Shana 』
 しっぽちゃん
 Toake
-TIER_0
-Sai10
