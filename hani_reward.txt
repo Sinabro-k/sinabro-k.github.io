@@ -6,10 +6,10 @@ LERI_THE_RULER
 Rei2110
 ʚ 슈나 ɞ
 ShinWoong
-mo4ca
 -Yoichi-
 『루셰』ルウシェ
 fees-
+mo4ca
 東雲 湊
 龍神黒墨
 belilily
@@ -27,7 +27,6 @@ amari_rei
 犬峰ゆた
 ABC490
 しーの／T_Shiino
-Taitan5656
 Ishtãr
 LAGNAROCK
 Yukito_Shirube
@@ -37,6 +36,7 @@ MELTDOWN_LAZY
 ぺねろぺ
 Easz（いーじー）
 Rat Vacation
+Taitan5656
 Kosmik_
 ていてい
 ZINU_
@@ -75,8 +75,6 @@ RuskCiela
 飆（つむじっ
 Keifim
 イサベル
--Ryo
-Jaden
 Bread Lady
 _ゴブリン_
 ねこにゃんこ
