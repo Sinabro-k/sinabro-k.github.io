@@ -4,7 +4,6 @@ Taylot
 ヒロシ Hiroshi
 LERI_THE_RULER
 Rei2110
-Briant
 ʚ 슈나 ɞ
 ShinWoong
 mo4ca
@@ -59,7 +58,6 @@ GIRUMON
 ざくざくざく
 Feathermo0n
 -マカロニ-
-RiN（りん）
 御堂ゆきみ
 あいりす［Iris］
 hapapi
@@ -77,7 +75,6 @@ RuskCiela
 飆（つむじっ
 Keifim
 イサベル
-ぱふゅーむてんこ
 -Ryo
 Jaden
 Bread Lady
@@ -106,3 +103,7 @@ Dococyx
 『 Shana 』
 しっぽちゃん
 Toake
+TIER_0
+Briant
+RiN（りん）
+ぱふゅーむてんこ
