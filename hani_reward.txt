@@ -99,5 +99,3 @@ Dococyx
 『 Shana 』
 しっぽちゃん
 Toake
-TIER_0
-_ゴブリン_
