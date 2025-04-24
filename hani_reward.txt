@@ -77,7 +77,6 @@ Bread Lady
 ᴀᴍʏᴢᴏɴɪᴀɴ
 Keifim
 イサベル
-_ゴブリン_
 ねこにゃんこ
 Aoi Ciel
 透明¯＼_（ツ）_⁄¯
@@ -100,3 +99,5 @@ Dococyx
 『 Shana 』
 しっぽちゃん
 Toake
+TIER_0
+_ゴブリン_
