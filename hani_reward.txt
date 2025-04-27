@@ -6,11 +6,9 @@ mo4ca
 LERI_THE_RULER
 Rei2110
 ShinWoong
-ʚ 슈나 ɞ
 -Yoichi-
 『루셰』ルウシェ
 fees-
-東雲 湊
 龍神黒墨
 belilily
 blanc（ぶらん）
@@ -91,10 +89,13 @@ koko-4
 BBoou
 the_apple_Ibad
 RocioCereal
-Gallery&fanCafe_Kittens02
-kouji174
 Dococyx
 おぢさんちゃん
 『 Shana 』
 しっぽちゃん
 Toake
+TIER_0
+ʚ 슈나 ɞ
+東雲 湊
+Gallery&fanCafe_Kittens02
+kouji174
