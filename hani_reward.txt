@@ -94,5 +94,3 @@ Dococyx
 しっぽちゃん
 moss1290
 Toake
-TIER_0
-MELTDOWN_LAZY
