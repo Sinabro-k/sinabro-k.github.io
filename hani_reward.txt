@@ -11,7 +11,6 @@ fees-
 龍神黒墨
 belilily
 blanc（ぶらん）
-ARUN_
 風起O口O
 TIER_10
 Nocit
@@ -100,3 +99,5 @@ rote（ろて）
 Yoshino晴彦
 ちょこたろう
 Toake
+TIER_0
+ARUN_
