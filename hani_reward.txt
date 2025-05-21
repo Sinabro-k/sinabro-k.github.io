@@ -97,5 +97,3 @@ Mechiba
 rote（ろて）
 Yoshino晴彦
 ちょこたろう
-TIER_0
-Toake
