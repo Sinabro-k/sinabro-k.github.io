@@ -34,7 +34,6 @@ Cicieaaa
 ぺねろぺ
 Kosmik_
 ていてい
-Easz（いーじー）
 ZINU_
 ༒ Ｄｅｌｏｓ ༒
 オレだオレ、送金よろ
@@ -67,7 +66,6 @@ elevenhome
 모스크바
 RuskCiela
 Keifim
--マカロニ-
 イサベル
 飆（つむじっ
 Bread Lady
@@ -100,3 +98,6 @@ rote（ろて）
 Yoshino晴彦
 ちょこたろう
 Toake
+TIER_0
+Easz（いーじー）
+-マカロニ-
