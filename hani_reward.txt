@@ -96,5 +96,4 @@ Yoshino晴彦
 ちょこたろう
 GinNun
 TIER_0
-ZINU_
 hapapi
