@@ -95,5 +95,3 @@ rote（ろて）
 Yoshino晴彦
 ちょこたろう
 GinNun
-TIER_0
-hapapi
