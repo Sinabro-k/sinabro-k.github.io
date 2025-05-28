@@ -34,7 +34,6 @@ Cicieaaa
 ぺねろぺ
 Kosmik_
 ていてい
-ZINU_
 ༒ Ｄｅｌｏｓ ༒
 オレだオレ、送金よろ
 PinkBread
@@ -54,7 +53,6 @@ GIRUMON
 Feathermo0n
 あいりす［Iris］
 Lewdie_FemboyS2
-hapapi
 しろぐみまーくつー
 むあ__
 SUZAKU／Leticia
@@ -97,3 +95,6 @@ rote（ろて）
 Yoshino晴彦
 ちょこたろう
 GinNun
+TIER_0
+ZINU_
+hapapi
