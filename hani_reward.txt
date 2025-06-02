@@ -40,7 +40,6 @@ casparMMT
 ものくろーむ
 Kosmik_
 ていてい
-うぽぽん
 shirai25
 しるふぃ
 oicoco
@@ -95,3 +94,5 @@ Yoshino晴彦
 GinNun
 みつみさん
 chan_0120
+TIER_0
+うぽぽん
