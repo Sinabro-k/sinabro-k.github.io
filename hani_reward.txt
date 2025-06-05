@@ -75,7 +75,6 @@ JoJiFish
 iSugar
 ただのドロ
 イサベル
-nayu_ne
 ch1kuw48u
 koko-4
 BBoou
@@ -94,3 +93,5 @@ Yoshino晴彦
 GinNun
 みつみさん
 chan_0120
+TIER_0
+nayu_ne
