@@ -17,7 +17,6 @@ L'gy'hx
 Bellvall
 sorairo5010
 Nocit
-kdg624
 inaluv＠いな
 amari_rei
 犬峰ゆた
@@ -93,3 +92,5 @@ Yoshino晴彦
 GinNun
 みつみさん
 chan_0120
+TIER_0
+kdg624
