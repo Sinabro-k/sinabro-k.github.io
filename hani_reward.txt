@@ -87,10 +87,11 @@ moss1290
 kyosen613
 Mechiba
 うなぎ99
-rote（ろて）
 Yoshino晴彦
 ちょこたろう
 GinNun
 みつみさん
 chan_0120
 つなしあい
+TIER_0
+rote（ろて）
