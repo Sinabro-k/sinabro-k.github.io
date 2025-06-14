@@ -94,5 +94,4 @@ GinNun
 chan_0120
 つなしあい
 raika313siroiid
-TIER_2
 yamaju
