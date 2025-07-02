@@ -78,7 +78,6 @@ BBoou
 RocioCereal
 『 Shana 』
 しっぽちゃん
-むあ__
 kyosen613
 Mechiba
 うなぎ99
@@ -91,3 +90,5 @@ chan_0120
 raika313siroiid
 yamaju
 cyobi
+TIER_0
+むあ__
