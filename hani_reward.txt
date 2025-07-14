@@ -88,5 +88,3 @@ chan_0120
 raika313siroiid
 CypherpunkFR
 cyobi
-TIER_0
-yamaju
