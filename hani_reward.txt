@@ -12,7 +12,6 @@ belilily
 blanc（ぶらん）
 ARUN_
 ぽん__
-風起O口O
 TIER_10
 L'gy'hx
 Bellvall
@@ -88,3 +87,5 @@ chan_0120
 raika313siroiid
 cyobi
 CypherpunkFR
+TIER_0
+風起O口O
