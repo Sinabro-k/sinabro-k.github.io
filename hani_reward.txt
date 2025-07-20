@@ -84,5 +84,3 @@ chan_0120
 raika313siroiid
 cyobi
 CypherpunkFR
-TIER_0
-모스크바
