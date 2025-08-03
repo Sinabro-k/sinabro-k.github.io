@@ -27,7 +27,6 @@ Ishtãr
 Yukito_Shirube
 Cicieaaa
 ____YUU____
-猫屋敷 月禍
 ༒ Ｄｅｌｏｓ ༒
 casparMMT
 ぺっかと
@@ -86,3 +85,5 @@ raika313siroiid
 cyobi
 CypherpunkFR
 tonbo2031
+TIER_0
+猫屋敷 月禍
