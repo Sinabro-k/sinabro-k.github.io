@@ -84,5 +84,3 @@ kubobo
 Septciel
 suwako891
 Mitsuba225
-TIER_0
-イサベル
