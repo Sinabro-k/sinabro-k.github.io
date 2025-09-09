@@ -64,7 +64,6 @@ iSugar
 ただのドロ
 ch1kuw48u
 koko-4
-イサベル
 RocioCereal
 『 Shana 』
 しっぽちゃん
@@ -86,3 +85,5 @@ kubobo
 Septciel
 suwako891
 Mitsuba225
+TIER_0
+イサベル
