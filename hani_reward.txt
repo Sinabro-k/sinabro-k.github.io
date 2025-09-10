@@ -77,10 +77,11 @@ GinNun
 chan_0120
 raika313siroiid
 cyobi
-CypherpunkFR
 jess_themess
 ＊愛瑠＊
 kubobo
 Septciel
 suwako891
 Mitsuba225
+TIER_0
+CypherpunkFR
