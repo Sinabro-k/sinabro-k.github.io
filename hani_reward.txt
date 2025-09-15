@@ -8,7 +8,6 @@ ShinWoong
 fees-
 龍神黒墨
 belilily
-『루셰』ルウシェ
 blanc（ぶらん）
 ぽん__
 TIER_10
@@ -84,3 +83,5 @@ kubobo
 Septciel
 suwako891
 Mitsuba225
+TIER_0
+『루셰』ルウシェ
