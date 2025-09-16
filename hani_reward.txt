@@ -37,7 +37,6 @@ casparMMT
 しゅんっ
 Lichbait
 Keifim
-SINAA
 GIRUMON
 Feathermo0n
 あいりす［Iris］
@@ -83,3 +82,5 @@ kubobo
 Septciel
 suwako891
 Mitsuba225
+TIER_0
+SINAA
