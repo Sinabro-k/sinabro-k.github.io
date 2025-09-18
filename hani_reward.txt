@@ -63,7 +63,6 @@ iSugar
 ch1kuw48u
 koko-4
 BBoou
-RocioCereal
 『 Shana 』
 しっぽちゃん
 kyosen613
@@ -82,3 +81,5 @@ Mitsuba225
 kubobo
 Septciel
 suwako891
+TIER_0
+RocioCereal
