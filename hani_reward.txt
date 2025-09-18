@@ -80,5 +80,3 @@ Mitsuba225
 kubobo
 Septciel
 suwako891
-TIER_0
-RocioCereal
