@@ -57,7 +57,6 @@ Aoi Ciel
 透明¯＼_（ツ）_⁄¯
 Yuni（ゆに）
 Karute
-JoJiFish
 iSugar
 ただのドロ
 ch1kuw48u
@@ -83,3 +82,5 @@ suwako891
 緒方リナ
 みろりんご
 ジオード
+TIER_0
+JoJiFish
