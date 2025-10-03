@@ -79,5 +79,3 @@ Septciel
 緒方リナ
 みろりんご
 ジオード
-TIER_0
-Mechiba
