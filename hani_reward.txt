@@ -64,7 +64,6 @@ BBoou
 『 Shana 』
 しっぽちゃん
 kyosen613
-Mechiba
 うなぎ99
 ちょこたろう
 Yoshino晴彦
@@ -80,3 +79,5 @@ Septciel
 緒方リナ
 みろりんご
 ジオード
+TIER_0
+Mechiba
