@@ -16,7 +16,6 @@ TIER_10
 L'gy'hx
 Bellvall
 sorairo5010
-inaluv＠いな
 amari_rei
 犬峰ゆた
 ____YUU____
@@ -83,3 +82,5 @@ Septciel
 ジオード
 _たる_
 HeYo_へよ
+TIER_0
+inaluv＠いな
