@@ -3,7 +3,6 @@ Ddc3L
 TIER_20
 Taylot
 八重咲クラ
-ヒロシ Hiroshi
 mo4ca
 Rei2110
 ShinWoong
@@ -76,9 +75,11 @@ jess_themess
 Mitsuba225
 ＊愛瑠＊
 Septciel
-緒方リナ
 みろりんご
 ジオード
 _たる_
 HeYo_へよ
 8げんまい8
+TIER_0
+ヒロシ Hiroshi
+緒方リナ
