@@ -50,7 +50,6 @@ Bread Lady
 ᴀᴍʏᴢᴏɴɪᴀɴ
 ねこにゃんこ
 Aoi Ciel
-くもくも_
 透明¯＼_（ツ）_⁄¯
 Yuni（ゆに）
 Karute
@@ -78,3 +77,5 @@ Septciel
 _たる_
 HeYo_へよ
 8げんまい8
+TIER_0
+くもくも_
