@@ -52,7 +52,6 @@ Bread Lady
 Aoi Ciel
 透明¯＼_（ツ）_⁄¯
 Yuni（ゆに）
-Karute
 iSugar
 ただのドロ
 koko-4
@@ -77,3 +76,5 @@ Septciel
 _たる_
 HeYo_へよ
 8げんまい8
+TIER_0
+Karute
