@@ -52,7 +52,6 @@ Yuni（ゆに）
 iSugar
 ただのドロ
 koko-4
-ch1kuw48u
 BBoou
 ざくざくざく
 『 Shana 』
@@ -73,3 +72,5 @@ Septciel
 _たる_
 HeYo_へよ
 8げんまい8
+TIER_0
+ch1kuw48u
