@@ -59,7 +59,6 @@ BBoou
 しっぽちゃん
 kyosen613
 うなぎ99
-Yoshino晴彦
 ちょこたろう
 GinNun
 chan_0120
@@ -72,3 +71,5 @@ Septciel
 _たる_
 HeYo_へよ
 8げんまい8
+TIER_0
+Yoshino晴彦
