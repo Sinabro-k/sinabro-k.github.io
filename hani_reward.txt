@@ -42,7 +42,6 @@ SUZAKU／Leticia
 elevenhome
 ハル.noi
 RuskCiela
-飆（つむじっ
 Bread Lady
 ᴀᴍʏᴢᴏɴɪᴀɴ
 ねこにゃんこ
@@ -71,3 +70,5 @@ _たる_
 HeYo_へよ
 8げんまい8
 kkdspkk
+TIER_0
+飆（つむじっ
