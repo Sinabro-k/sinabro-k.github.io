@@ -22,7 +22,6 @@ Taitan5656
 Rat Vacation
 Akuwi
 LAGNAROCK
-シルベ ユキト
 Cicieaaa
 Kosmik_
 ものくろーむ
@@ -69,3 +68,5 @@ _たる_
 HeYo_へよ
 8げんまい8
 kkdspkk
+TIER_0
+シルベ ユキト
