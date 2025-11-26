@@ -5,7 +5,6 @@ TIER_20
 Taylot
 mo4ca
 Rei2110
-ShinWoong
 fees-
 龍神黒墨
 belilily
@@ -68,3 +67,5 @@ _たる_
 HeYo_へよ
 8げんまい8
 kkdspkk
+TIER_0
+ShinWoong
