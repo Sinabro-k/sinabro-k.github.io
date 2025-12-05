@@ -48,7 +48,6 @@ Aoi Ciel
 Yuni（ゆに）
 iSugar
 ただのドロ
-koko-4
 BBoou
 ざくざくざく
 『 Shana 』
@@ -68,3 +67,5 @@ HeYo_へよ
 8げんまい8
 しょくぱん
 kkdspkk
+TIER_0
+koko-4
