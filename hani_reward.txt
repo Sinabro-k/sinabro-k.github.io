@@ -56,7 +56,6 @@ kyosen613
 ちょこたろう
 GinNun
 chan_0120
-cyobi
 jess_themess
 ＊愛瑠＊
 Septciel
@@ -67,3 +66,5 @@ HeYo_へよ
 しょくぱん
 オヴニル
 kkdspkk
+TIER_0
+cyobi
