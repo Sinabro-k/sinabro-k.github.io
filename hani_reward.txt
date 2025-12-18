@@ -53,7 +53,6 @@ BBoou
 しっぽちゃん
 kyosen613
 うなぎ99
-ちょこたろう
 GinNun
 chan_0120
 jess_themess
@@ -66,3 +65,5 @@ HeYo_へよ
 しょくぱん
 オヴニル
 kkdspkk
+TIER_0
+ちょこたろう
