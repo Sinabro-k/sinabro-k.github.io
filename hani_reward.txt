@@ -45,7 +45,6 @@ Yuni（ゆに）
 iSugar
 ただのドロ
 ざくざくざく
-BBoou
 『 Shana 』
 しっぽちゃん
 kyosen613
@@ -66,3 +65,5 @@ suwako891
 オヴニル
 _まど_
 AkigawaZero
+TIER_0
+BBoou
