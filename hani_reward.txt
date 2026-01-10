@@ -6,7 +6,6 @@ mo4ca
 Rei2110
 fees-
 龍神黒墨
-belilily
 blanc（ぶらん）
 ぽん__
 TIER_10
@@ -64,3 +63,5 @@ suwako891
 オヴニル
 _まど_
 AkigawaZero
+TIER_0
+belilily
