@@ -67,4 +67,3 @@ AkigawaZero
 otto233
 TIER_0
 ABC490
-Mitsuba225
