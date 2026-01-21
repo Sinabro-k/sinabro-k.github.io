@@ -17,7 +17,6 @@ sorairo5010
 amari_rei
 犬峰ゆた
 しーの／T_Shiino
-ABC490
 Taitan5656
 Akuwi
 LAGNAROCK
@@ -55,7 +54,6 @@ chan_0120
 JoJiFish
 jess_themess
 ＊愛瑠＊
-Mitsuba225
 ジオード
 _たる_
 8げんまい8
@@ -68,3 +66,6 @@ L3ss_ぷっちー
 エル-Elzia-
 AkigawaZero
 otto233
+TIER_0
+ABC490
+Mitsuba225
