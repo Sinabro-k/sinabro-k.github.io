@@ -10,6 +10,8 @@ fees-
 龍神黒墨
 blanc（ぶらん）
 ぽん__
+TIER_19.2
+海花 Kaika
 TIER_10
 L'gy'hx
 Bellvall
