@@ -25,7 +25,6 @@ LAGNAROCK
 Kosmik_
 Keifim
 俺俺送金宜
-ものくろーむ
 ぺっかと
 casparMMT
 shirai25
@@ -69,3 +68,5 @@ L3ss_ぷっちー
 エル-Elzia-
 Mikan_Yaki
 otto233
+TIER_0
+ものくろーむ
