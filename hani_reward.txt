@@ -13,7 +13,6 @@ blanc（ぶらん）
 TIER_19.2
 海花 Kaika
 TIER_10
-L'gy'hx
 Bellvall
 sorairo5010
 amari_rei
@@ -22,6 +21,7 @@ amari_rei
 Taitan5656
 Akuwi
 LAGNAROCK
+L'gy'hx
 Kosmik_
 Keifim
 俺俺送金宜
