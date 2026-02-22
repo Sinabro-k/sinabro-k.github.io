@@ -39,7 +39,6 @@ elevenhome
 ᴀᴍʏᴢᴏɴɪᴀɴ
 ねこにゃんこ
 Aoi Ciel
-Bread Lady
 透明¯＼_（ツ）_⁄¯
 Yuni（ゆに）
 iSugar
@@ -72,3 +71,5 @@ R_Alastor
 ふゆさめ_
 Sig
 いくらのきりみ
+TIER_0
+Bread Lady
