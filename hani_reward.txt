@@ -10,6 +10,7 @@ fees-
 龍神黒墨
 blanc（ぶらん）
 ぽん__
+link0319
 TIER_19.2
 海花 Kaika
 TIER_10
@@ -71,4 +72,3 @@ R_Alastor
 ふゆさめ_
 Sig
 いくらのきりみ
-link0319
