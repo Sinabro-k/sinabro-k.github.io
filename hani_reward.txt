@@ -71,5 +71,3 @@ R_Alastor
 ふゆさめ_
 Sig
 いくらのきりみ
-TIER_0
-Yuni（ゆに）
