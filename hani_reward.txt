@@ -42,7 +42,6 @@ elevenhome
 Aoi Ciel
 透明¯＼_（ツ）_⁄¯
 iSugar
-ただのドロ
 ざくざくざく
 『 Shana 』
 しっぽちゃん
@@ -70,3 +69,5 @@ Sig
 いくらのきりみ
 Nemo_021
 こっすー
+TIER_0
+ただのドロ
