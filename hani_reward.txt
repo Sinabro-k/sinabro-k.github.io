@@ -64,7 +64,8 @@ Mikan_Yaki
 R_Alastor
 Sig
 otto233
-いくらのきりみ
 Nemo_021
 -のい-
 こっすー
+TIER_0
+いくらのきりみ
