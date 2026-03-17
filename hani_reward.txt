@@ -63,8 +63,9 @@ L3ss_ぷっちー
 Mikan_Yaki
 R_Alastor
 Sig
-otto233
 Nemo_021
 -のい-
 彼岸常雨
 こっすー
+TIER_0
+otto233
