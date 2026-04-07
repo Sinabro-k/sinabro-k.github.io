@@ -13,7 +13,6 @@ TIER_19.2
 海花 Kaika
 TIER_10
 L'gy'hx
-Bellvall
 sorairo5010
 amari_rei
 犬峰ゆた
@@ -67,3 +66,5 @@ Nemo_021
 彼岸常雨
 ちぃーくん
 Matt74
+TIER_0
+Bellvall
