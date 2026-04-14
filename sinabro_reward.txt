@@ -1,8 +1,0 @@
-[
-  {
-    "tier_id": "196241737",
-    "list": [
-      "Jules Winnfield"
-    ]
-  }
-]
