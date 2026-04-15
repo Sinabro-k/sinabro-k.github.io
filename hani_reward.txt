@@ -54,7 +54,6 @@ Sai10
 suwako891
 _まど_
 Gimlet_Aota
-L3ss_ぷっちー
 エル-Elzia-
 R_Alastor
 Sig
@@ -64,3 +63,5 @@ Nemo_021
 彼岸常雨
 ちぃーくん
 Matt74
+TIER_0
+L3ss_ぷっちー
