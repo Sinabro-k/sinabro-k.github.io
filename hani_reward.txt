@@ -28,7 +28,6 @@ shirai25
 しるふぃ
 しあcha
 Lichbait
-GIRUMON
 Feathermo0n
 SUZAKU／Leticia
 elevenhome
@@ -65,3 +64,5 @@ Nemo_021
 Matt74
 maru4580
 migikado
+TIER_0
+GIRUMON
