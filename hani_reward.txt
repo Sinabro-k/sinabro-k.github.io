@@ -57,5 +57,3 @@ Nemo_021
 maru4580
 migikado
 Zrypter
-TIER_0
-ヒロシ Hiroshi
