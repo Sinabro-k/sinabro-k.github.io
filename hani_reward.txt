@@ -41,7 +41,6 @@ GinNun
 chan_0120
 ＊愛瑠＊
 ジオード
-Mitsuba225
 _たる_
 Sai10
 しょくぱん
@@ -58,3 +57,5 @@ Nemo_021
 maru4580
 migikado
 Zrypter
+TIER_0
+Mitsuba225
