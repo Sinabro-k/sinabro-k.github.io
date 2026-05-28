@@ -6,6 +6,7 @@ TIER_20
 八重咲クラ
 龍神黒墨
 ぽん__
+-なの-
 TIER_19.2
 海花 Kaika
 TIER_10
@@ -56,4 +57,3 @@ Nemo_021
 maru4580
 migikado
 Zrypter
--なの-
