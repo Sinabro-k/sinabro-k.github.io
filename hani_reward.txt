@@ -28,7 +28,6 @@ Lichbait
 Feathermo0n
 SUZAKU／Leticia
 elevenhome
-ハル.noi
 ᴀᴍʏᴢᴏɴɪᴀɴ
 Aoi Ciel
 ねこにゃんこ
@@ -56,3 +55,5 @@ Nemo_021
 maru4580
 migikado
 Zrypter
+TIER_0
+ハル.noi
