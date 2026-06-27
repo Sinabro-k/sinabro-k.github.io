@@ -44,7 +44,6 @@ chan_0120
 ジオード
 _たる_
 Sai10
-しょくぱん
 オヴニル
 Gimlet_Aota
 エル-Elzia-
@@ -56,3 +55,5 @@ Nemo_021
 maru4580
 migikado
 Zrypter
+TIER_0
+しょくぱん
