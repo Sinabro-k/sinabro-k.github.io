@@ -52,5 +52,3 @@ Zrypter
 maru4580
 migikado
 窝窝头w
-TIER_0
-しあcha
