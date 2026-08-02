@@ -52,5 +52,6 @@ Nemo_021
 -のい-
 migikado
 maru4580
-Zrypter
 窝窝头w
+TIER_0
+Zrypter
