@@ -25,7 +25,6 @@ LAGNAROCK
 shirai25
 しるふぃ
 Lichbait
- FeatherLily
 SUZAKU／Leticia
 elevenhome
 ᴀᴍʏᴢᴏɴɪᴀɴ
@@ -55,3 +54,5 @@ migikado
 maru4580
 Pandora975
 sigure yuu
+TIER_0
+ FeatherLily
