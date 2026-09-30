@@ -8,8 +8,6 @@ TIER_20
 Tetrit 테트릿
 TIER_19.2
 海花 Kaika
-TIER_14.86
--なの-
 TIER_10
 L'gy'hx
 sorairo5010
@@ -53,3 +51,5 @@ maru4580
 Pandora975
 sigure yuu
 ・トニオ・
+TIER_0
+-なの-
