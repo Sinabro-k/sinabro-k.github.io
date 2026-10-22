@@ -3,6 +3,7 @@ Septciel
 TIER_20
 八重咲クラ
 龍神黒墨
+TheNeonLynx
 TIER_19.2
 海花 Kaika
 TIER_10
@@ -49,4 +50,3 @@ eitys3
 eSaeSa
 あかねだよ～
 -阿相-
-TheNeonLynx
