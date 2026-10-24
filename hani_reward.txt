@@ -1,5 +1,7 @@
 TIER_192
 Septciel
+TIER_96
+Mitsuba225
 TIER_20
 八重咲クラ
 龍神黒墨
