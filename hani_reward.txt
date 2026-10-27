@@ -42,7 +42,6 @@ _たる_
 エル-Elzia-
 R_Alastor
 Sig
-Nemo_021
 こっすー
 Mikan_Yaki
 migikado
@@ -58,3 +57,5 @@ Kitsune=3
 CocoMyuu
 佐倉hakase
 修造owo
+TIER_0
+Nemo_021
