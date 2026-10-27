@@ -57,5 +57,3 @@ Kitsune=3
 CocoMyuu
 佐倉hakase
 修造owo
-TIER_0
-Nemo_021
