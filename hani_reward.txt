@@ -25,7 +25,6 @@ Taitan5656
 ぺっかと
 shirai25
 しるふぃ
-Lichbait
 SUZAKU／Leticia
 elevenhome
 ᴀᴍʏᴢᴏɴɪᴀɴ
@@ -75,3 +74,5 @@ xFBErey
 EyraHeart
 花绿青_
 AONASI
+TIER_0
+Lichbait
