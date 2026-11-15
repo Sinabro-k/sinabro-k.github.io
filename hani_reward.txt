@@ -74,5 +74,3 @@ xFBErey
 EyraHeart
 花绿青_
 AONASI
-TIER_0
-Lichbait
