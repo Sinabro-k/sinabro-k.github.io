@@ -54,7 +54,6 @@ Pandora975
 ・トニオ・
 eitys3
 kubobo
-あかねだよ～
 -阿相-
 Kitsune=3
 定塚イコイ
@@ -75,3 +74,5 @@ EyraHeart
 ぽぽooO
 花绿青_
 AONASI
+TIER_0
+あかねだよ～
