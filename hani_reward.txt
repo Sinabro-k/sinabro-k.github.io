@@ -55,7 +55,6 @@ Pandora975
 eitys3
 kubobo
 -阿相-
-Kitsune=3
 定塚イコイ
 CocoMyuu
 佐倉hakase
@@ -72,5 +71,6 @@ xFBErey
 夏草まなつ
 EyraHeart
 ぽぽooO
+Kitsune=3
 花绿青_
 AONASI
