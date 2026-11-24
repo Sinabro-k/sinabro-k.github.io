@@ -56,7 +56,6 @@ eitys3
 Kitsune=3
 定塚イコイ
 kubobo
-CocoMyuu
 佐倉hakase
 修造owo
 MeguriWV
@@ -71,6 +70,7 @@ xFBErey
 夏草まなつ
 EyraHeart
 ぽぽooO
+CocoMyuu
 花绿青_
 AONASI
 TIER_0
