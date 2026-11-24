@@ -56,7 +56,6 @@ eitys3
 Kitsune=3
 定塚イコイ
 kubobo
--阿相-
 CocoMyuu
 佐倉hakase
 修造owo
@@ -74,3 +73,5 @@ EyraHeart
 ぽぽooO
 花绿青_
 AONASI
+TIER_0
+-阿相-
