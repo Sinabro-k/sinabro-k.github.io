@@ -71,5 +71,3 @@ EyraHeart
 花绿青_
 AONASI
 Eri9
-TIER_0
-修造owo
